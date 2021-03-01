@@ -39,9 +39,7 @@
     "wpackagist-plugin/nginx-helper": "^2.2.2",
     "wpackagist-plugin/sendgrid-email-delivery-simplified": "^1.11.8",
     "wpackagist-plugin/redis-cache": "^2.0.17",
-    "wpackagist-plugin/debug-bar": "^1.1.2",
-    "wpackagist-plugin/jetpack": "^9.4.1",
-    "wpackagist-theme/hestia": "^3.0.9"
+    "wpackagist-plugin/debug-bar": "^1.1.2"
   },
   "require-dev": {
     "heroku/heroku-buildpack-php": "*",

@@ -1,9 +1,7 @@
 ## Changelog
 
-#### 0.2 (2017-06-04)
-* Bedrock 1.7.9
-* WordPress 4.7.5
+#### 0.1 (2021-03-01)
+Forked from [PhilippHeuer/wordpress-heroku[(https://github.com/PhilippHeuer/wordpress-heroku)
 
-#### 0.1 (2017-01-30)
-* Bedrock 1.7.5 (2017-01-26)
-* WordPress 4.7.2
+Updated to WordPress 5.6.2.
+Updated `composer.json` dependencies.

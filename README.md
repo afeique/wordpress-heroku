@@ -5,7 +5,8 @@
 ## About:
 This project is a template for running [WordPress](http://wordpress.org/) on [Heroku](http://www.heroku.com/). It is based on [Bedrock](https://roots.io/bedrock/), a modern WordPress development stack.
 
-This repo was originally forked from [PhilippHeuer/wordpress-heroku[(https://github.com/PhilippHeuer/wordpress-heroku) on 2021-03-01. It has been updated to use **WordPress 5.6.2 and higher**. All the `composer.json` dependencies have been updated to the latest versions as of **2021-03-01**.
+This repo was originally forked from [PhilippHeuer/wordpress-heroku](https://github.com/PhilippHeuer/wordpress-heroku) on 2021-03-01. 
+It has been updated to use **WordPress 5.6.2 and higher**. All the `composer.json` dependencies have been updated to the latest versions as of **2021-03-01**.
 
 The Heroku configuration in this project only uses free resources, but you can upgrade them after deployment.
 
